@@ -1,4 +1,6 @@
-Due to file size limitations, the datasets referenced in the book along with all the chapter files are also hosted externally. You can access them here: [Insert Link].
+Due to file size limitations, the datasets referenced in the book along with all the chapter files are also hosted externally. 
+
+You can access them here: https://drive.google.com/drive/folders/1ot7-Ln2jCaY1tDWLlbwfeKCdCchYiJSL?usp=sharing
 
 In this repository you can only access the python files.
 
